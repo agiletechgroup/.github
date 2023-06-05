@@ -8,25 +8,25 @@ AgileTechGroup was founded in 2021 by a group of experienced developers who want
 ## Our Services
 We offer a wide range of software development services, including:
 
-### Web Development 
+#### Web Development 
 Our team of experienced web developers can help you build modern, responsive websites that are optimized for performance and user experience. We use the latest technologies and frameworks to create custom web solutions that meet your specific needs. 
  
-### Mobile App Development 
+#### Mobile App Development 
 We specialize in building native and hybrid mobile apps for iOS and Android devices. Our team can help you create high-quality apps that are user-friendly, scalable, and secure. We use agile development methodologies to ensure that your app is delivered on time and within budget. 
  
-### Custom Software Development 
+#### Custom Software Development 
 If you need a custom software solution to meet your unique business requirements, our team can help. We have experience developing custom software for a wide range of industries, including healthcare, finance, and education. We use a collaborative approach to understand your needs and deliver a solution that meets your specific requirements. 
  
-### E-commerce Solutions 
+#### E-commerce Solutions 
 We can help you build an e-commerce platform that is tailored to your business needs. Our team has experience building e-commerce solutions that are secure, scalable, and user-friendly. We can help you integrate with popular payment gateways and shipping providers to streamline your online sales process. 
  
-### Cloud Computing Solutions 
+#### Cloud Computing Solutions 
 We specialize in building cloud-based solutions that are scalable, secure, and cost-effective. Our team can help you migrate your existing applications to the cloud or build new cloud-native applications from scratch. We have experience with popular cloud platforms such as Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform. 
  
-### DevOps Services 
+#### DevOps Services 
 Our team can help you implement a DevOps strategy to streamline your software development process. We use automation tools and best practices to help you deliver software faster and with higher quality. Our DevOps services include continuous integration and delivery, infrastructure automation, and monitoring and logging. 
  
-### Chatbot and AI Development 
+#### Chatbot and AI Development 
 We can help you build chatbots and AI-powered solutions that can help automate your business processes and improve customer engagement. Our team has experience building chatbots and AI solutions for a wide range of industries, including healthcare, finance, and e-commerce. We use natural language processing (NLP) and machine learning (ML) technologies to create intelligent chatbots and AI solutions that can learn and improve over time. 
 
 ## Our Technologies
