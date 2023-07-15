@@ -18,9 +18,14 @@ We offer a wide range of software development services, including:
 ## Our Technologies
 At AgileTechGroup, we are always exploring new technologies and tools to stay ahead of the curve. Some of the technologies we specialize in include:
 - JavaScript
+- TypeScript
+- PHP
 - React
 - Node.js
 - Python
 - Django
 - AWS
 - Docker
+- React Native
+- Kotlin
+- Flutter
