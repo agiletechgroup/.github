@@ -1,6 +1,6 @@
-# AgileTechGroup
+# Agile Tech Group
 
-Welcome to AgileTechGroup! We are a group of passionate developers who love to build innovative solutions using the latest technologies. Our goal is to help businesses and individuals achieve their goals by providing high-quality software development services.
+Welcome to **Agile Tech Group**! We are a group of passionate developers who love to build innovative solutions using the latest technologies. Our goal is to help businesses and individuals achieve their goals by providing high-quality software development services.
 
 ## About Us
 AgileTechGroup was founded in 2021 by a group of experienced developers who wanted to create a community of like-minded individuals who share their passion for technology. Since then, we have grown into a team of over 15 developers, designers, and project managers who are dedicated to delivering outstanding results for our clients.
