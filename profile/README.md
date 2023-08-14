@@ -7,7 +7,8 @@ AgileTechGroup was founded in 2021 by a group of experienced developers who want
 
 ## Our Services
 We offer a wide range of software development services, including:
-- Web Development 
+- Web Development
+- Windows Desktop App Development
 - Mobile App Development 
 - Custom Software Development 
 - E-commerce Solutions 
@@ -17,6 +18,9 @@ We offer a wide range of software development services, including:
 
 ## Our Technologies
 At AgileTechGroup, we are always exploring new technologies and tools to stay ahead of the curve. Some of the technologies we specialize in include:
+- C++
+- C#
+- Java
 - JavaScript
 - TypeScript
 - PHP
